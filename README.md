@@ -1,0 +1,1 @@
+Simple wheather app using api to get data about wheather of the user location or entered location.
